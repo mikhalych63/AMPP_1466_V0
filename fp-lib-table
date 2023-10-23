@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ADAU1466")(type "KiCad")(uri "/home/victor/Документы/PCB/lib/ul_ADAU1466WBCPZ300/KiCAD/2022-06-01_10-14-00/footprints.pretty")(options "")(descr ""))
+  (lib (name "my")(type "KiCad")(uri "/home/victor/Документы/PCB/lib/my.pretty/D2")(options "")(descr ""))
+)
